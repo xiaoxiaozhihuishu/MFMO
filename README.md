@@ -10,3 +10,7 @@ MFMO :
     MIC-mRMR: run the MFMO/MICmRMR_sel.py to restrict the number of selected feature and get top 10 important features
   
     Identification of radiomic biomarkers : run the MFMO/sel_shap.py to get the final 10 radiomic biomarkers
+    
+    comparision with prvious works
+    
+    comparision LR classifier with other classifier
