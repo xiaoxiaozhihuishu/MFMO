@@ -11,6 +11,6 @@ MFMO :
   
     Identification of radiomic biomarkers : run the MFMO/sel_shap.py to get the final 10 radiomic biomarkers
     
-    comparision with prvious works
+    comparision with previous works
     
     comparision LR classifier with other classifier
