@@ -132,7 +132,7 @@ sel_one = []
 for i in range(X_train.shape[1]):
     aa = X_train[:,i]
     scc = scipy.stats.spearmanr(aa,label_train)[0]
-    if scc>0.6:
+    if scc>0.8:
         sel_one.append(i)
 train_sel_set = X_train[:,sel_one]
 test_sel_set = X_test[:,sel_one]
