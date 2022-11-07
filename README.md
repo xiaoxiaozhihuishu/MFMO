@@ -7,7 +7,7 @@ MFMO :
   
     NMI-NSGAII: run the MFMO/NMI-NSGAII/main.m to select features by the multi-objectives-based feature selection algorithm
   
-    MIC-mRMR: run the MFMO/MICmRMR_sel.py to restrict the number of selected feature and get top 10 important features
+    MIC-mRMR: run the MFMO/MICmRMR_sel.py to restrict the number of selected feature and get top 10 important features from each filter
   
     Identification of radiomic biomarkers : run the MFMO/sel_shap.py to get the final 10 radiomic biomarkers
     
